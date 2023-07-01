@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "481687447180",
+    "firebase_url": "https://kanban-boards-4a3af-default-rtdb.firebaseio.com",
     "project_id": "kanban-boards-4a3af",
     "storage_bucket": "kanban-boards-4a3af.appspot.com"
   },
@@ -14,7 +15,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "481687447180-iikmvep7bf0k9g29ttr8mdv5g1nuoe0c.apps.googleusercontent.com",
+          "client_id": "481687447180-k6fpaal1fahrkqo164jfek85g09td21h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.github.ewingelen.kanbanboards",
@@ -22,7 +23,7 @@
           }
         },
         {
-          "client_id": "481687447180-f567ourpskfhe7n9nlajmrsr57aassug.apps.googleusercontent.com",
+          "client_id": "481687447180-1b2aj5bav14tv07e9a90atbk57pmi1me.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -35,7 +36,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "481687447180-f567ourpskfhe7n9nlajmrsr57aassug.apps.googleusercontent.com",
+              "client_id": "481687447180-1b2aj5bav14tv07e9a90atbk57pmi1me.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

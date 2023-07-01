@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">KanbanBoards</string>
+    <string name="app_name">Kanban Boards</string>
+    <string name="oauth_client_id">481687447180-1b2aj5bav14tv07e9a90atbk57pmi1me.apps.googleusercontent.com</string>
 </resources>
